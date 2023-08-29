@@ -1,0 +1,4 @@
+ARCH: sh ./script.sh
+Debian: bash[sh] ./script.sh
+Ubuntu: ./script.sh
+*** To check some result of tests in ./logs/

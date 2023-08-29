@@ -1,0 +1,11 @@
+The simpliest example of using PAM-module with hashes created by crypto()
+
+Using: 
+1. sudo ./install.sh
+2. ./entry_locker_auth
+3. sudo make clean ; sudo ./install.sh ; ./entry_locker_auth
+
+DEFAULT Login/Password : filter/admin
+
+P.S... You can change login and password in ./entry.c (before change you should create new one with tool in dir "CreateHashBySalt")
+
