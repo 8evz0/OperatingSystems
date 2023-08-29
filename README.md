@@ -18,3 +18,5 @@ Using:
   3. Ubuntu: ./script.sh
 
 *** To check some result of tests in ./logs/ ***
+
+P.S. If you have any questions, comments or suggestions - write, because it's important!
