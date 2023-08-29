@@ -1,4 +1,4 @@
-![Peek 2023-08-13 09-42](https://github.com/8evz0/os/assets/65715287/8c986f91-0976-4657-9190-00572fa70432)
+![github](https://github.com/8evz0/os/assets/65715287/ec6f02fb-ac7c-4520-be86-92a3a376be48)
 
 The project on the subject "Operating Systems" includes the following programs:
   1. Testing the file system for directory creation, file creation, read, write (Linux);
@@ -12,11 +12,9 @@ The project on the subject "Operating Systems" includes the following programs:
   9. Virtual machines includes 2 programs: virtual machine detection (Win64/Linux) and virtual machine exit (the implementation is written in Assembler) (Linux);
 
 
-Using:\n
-  ARCH: sh ./script.sh
-  
-  Debian: bash[sh] ./script.sh
-  
-  Ubuntu: ./script.sh
+Using:
+  1. ARCH: sh ./script.sh
+  2. Debian: bash[sh] ./script.sh
+  3. Ubuntu: ./script.sh
 
 *** To check some result of tests in ./logs/ ***
