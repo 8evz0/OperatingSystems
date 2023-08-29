@@ -14,7 +14,9 @@ The project on the subject "Operating Systems" includes the following programs:
 
 Using:
   ARCH: sh ./script.sh
+  
   Debian: bash[sh] ./script.sh
+  
   Ubuntu: ./script.sh
 
 *** To check some result of tests in ./logs/ ***
