@@ -1,4 +1,4 @@
-![github](https://github.com/8evz0/os/assets/65715287/ec6f02fb-ac7c-4520-be86-92a3a376be48)
+![github2](https://github.com/8evz0/os/assets/65715287/0310e6d5-b04e-41d3-8266-f300679427be)
 
 The project on the subject "Operating Systems" includes the following programs:
   1. Testing the file system for directory creation, file creation, read, write (Linux);
