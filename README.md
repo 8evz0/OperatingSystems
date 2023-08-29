@@ -12,7 +12,7 @@ The project on the subject "Operating Systems" includes the following programs:
   9. Virtual machines includes 2 programs: virtual machine detection (Win64/Linux) and virtual machine exit (the implementation is written in Assembler) (Linux);
 
 
-Using:
+Using:\n
   ARCH: sh ./script.sh
   
   Debian: bash[sh] ./script.sh
