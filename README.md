@@ -3,7 +3,8 @@
 The project on the subject "Operating Systems" includes the following programs:
 
   1. Filter packets based on Netfilter interface + testing programs + third-party programs (IP/MAC address changers) (Linux);
-  ![firewall](https://github.com/8evz0/OperatingSystems/assets/65715287/b362f1e8-b766-43d0-95b4-1e3bf49fa252)
+  ![FireWall](https://github.com/8evz0/OperatingSystems/assets/65715287/76f1750e-645f-4283-8ad1-146fce0c0ef2)
+
     
   3. Testing the file system for directory creation, file creation, read, write (Linux);
   
